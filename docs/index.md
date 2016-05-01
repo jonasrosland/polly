@@ -1,6 +1,7 @@
-# polly - Polymorphic Volume Scheduling
+# polly
+Polymorphic Volume Scheduling
 
-![polly](docs/images/Polly the Parrot_Containers.png)
+![polly](images/Polly the Parrot_Containers.png)
 
 ## Overview
 `Polly` implements a centralized storage scheduling service that integrates with popular `container schedulers` of different application platforms for containerized workloads. It is an open source framework that supports use of external storage, with scheduled containerized workloads, at scale. It can be used to centralize the control of creating, mapping, snapshotting and deleting persistent data volumes on a multitude of storage platforms.
