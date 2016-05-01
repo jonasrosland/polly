@@ -8,3 +8,8 @@ theme_dir: .docs/.themes/yeti
 
 pages:
 - Home: index.md
+- User Guide:
+     - Model: user-guide/model.md
+- About:
+    - Contributing: about/contributing.md
+    - License: about/license.md
